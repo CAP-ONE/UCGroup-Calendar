@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calendar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_firstname">Firstname</string>
+    <string name="prompt_lastname">Lastname</string>
+    <string name="action_login">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_invalid_firstname">This firstname is invalid</string>
+    <string name="error_invalid_lastname">This lastname is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="progress_title">Please wait…</string>
+    <string name="progress_cancel">Cancel</string>
+    <string name="progress_registering">Registering…</string>
+    <string name="progress_signin">Signing in…</string>
+    <string name="calendar_activity_title">Hello&#160;</string>
+    <string name="title_activity_inscription">Sign up</string>
+
+    <!-- Strings related to login -->
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+</resources>

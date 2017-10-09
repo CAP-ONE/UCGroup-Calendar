@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="UCGroupTheme" parent="UCGroupTheme.Base">
+
+        <item name="colorPrimary">@color/ucgroup_toolbar</item>
+        <item name="colorPrimaryDark">@color/ucgroup_toolbar_dark</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="UCGroupTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="UCGroupTheme.Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+</resources>
